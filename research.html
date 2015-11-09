@@ -1,0 +1,16 @@
+---
+layout: page
+title: Research
+weight: 2
+---
+
+
+<ul class="post-list">
+  {% for research in site.research %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ research.url | prepend: site.baseurl }}">{{ research.title }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>

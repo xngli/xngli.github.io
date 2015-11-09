@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nanofluid simulation
-permalink: /projects/nanofluid
+date:   2015-11-07
 ---
 <div class="flexslider">
   <ul class="slides">

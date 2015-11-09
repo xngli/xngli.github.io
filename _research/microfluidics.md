@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microfluidic cell sorting
-permalink: /projects/microfluidics
+date:   2015-11-07
 ---
 <div class="flexslider">
   <ul class="slides">
